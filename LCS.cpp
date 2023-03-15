@@ -2,7 +2,7 @@
  * LCS.cpp
  * J. Alex Burke 
  * 11/15/21
- * /
+ */
 
 
 #include <bits/stdc++.h>
